@@ -21,5 +21,32 @@ namespace Practice_Quiz
         {
 
         }
+
+        private void question2TextBox_TextChanged(object sender, EventArgs e)
+        {
+            
+
+
+        }
+
+        private void question01Button_Click(object sender, EventArgs e)
+        {
+            question1OutputLabel.Text = "happy hump dayy";
+        }
+
+        private void question2OutputLabel_Click(object sender, EventArgs e)
+        {
+           
+        }
+
+        private void question2Button_Click(object sender, EventArgs e)
+        {
+            question2OutputLabel.Text = "hello cynthia";
+        }
+
+        private void q3Int1Text_TextChanged(object sender, EventArgs e)
+        {
+            
+        }
     }
 }
