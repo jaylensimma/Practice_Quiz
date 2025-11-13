@@ -148,9 +148,9 @@
             // 
             // label7
             // 
-            this.label7.Location = new System.Drawing.Point(477, 86);
+            this.label7.Location = new System.Drawing.Point(430, 86);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(310, 183);
+            this.label7.Size = new System.Drawing.Size(357, 183);
             this.label7.TabIndex = 11;
             this.label7.Text = resources.GetString("label7.Text");
             this.label7.Click += new System.EventHandler(this.label7_Click);
